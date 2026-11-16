@@ -22,3 +22,4 @@ Me interesa el **desarrollo web full stack** y la **infraestructura y redes**: d
 
 - LinkedIn: *próximamente*
 - Correo: *eduardomanuel270204@gmail.com*
+- Portafolio: https://eduardomtzlopez.github.io
